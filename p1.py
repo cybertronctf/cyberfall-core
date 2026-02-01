@@ -1,1 +1,1 @@
-print("cyberfall-core INSERT")
+print("cyberfall-core UPDATE")
